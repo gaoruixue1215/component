@@ -1,0 +1,26 @@
+{
+  "name": "component",
+  "version": "1.0.0",
+  "description": "spa-homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoruixue1215/component.git"
+  },
+  "keywords": [],
+  "author": "gaoruixue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoruixue1215/component/issues"
+  },
+  "homepage": "https://github.com/gaoruixue1215/component#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
