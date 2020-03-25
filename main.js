@@ -20,6 +20,7 @@ $(function() {
         colWidths: [160,160,160,160],
         rowHeights:[40,40,40,40,40,40,40],
         className:'htCenter htMiddle',
+        licenseKey: "cc265-f210e-62c7e-63236-d1490",
     })
     
     //Echarts-JavaScript语言排名变化
