@@ -1,0 +1,2 @@
+# component
+spa-homework
